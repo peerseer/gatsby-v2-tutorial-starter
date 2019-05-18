@@ -1,6 +1,6 @@
 ---
 path: "/rafale"
-cover: "./blocks.jpg"
+cover: "./Rafale-lies_710x400xt.jpg"
 date: "2019-05-05"
 title: "Rahul Gandhi's lies on Rafale scam"
 published: true
