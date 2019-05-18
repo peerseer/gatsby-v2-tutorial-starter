@@ -1,13 +1,14 @@
 ---
-path: "/post-five"
-cover: "../2018-10-15/blocks.jpg"
-date: "2018-10-19"
-title: "Post Number Five"
-tags: ['tutorial', 'javascript', 'frontend']
+path: "/rafale-parrikar"
+cover: "./parrikar.jpg"
+date: "2019-04-15"
+title: "Parrikar said he had nothing to do with Rafale deal"
 published: true
+tags: ['rafale case', 'rafale Parrikar lie']
 ---
-And men, be to for respond approved the you to want the me, would text all to brief what the into he at every presentations. Supplies without found early men children I complicated something a king movement to ability my if tried values, seven behind room. Step, one when in.
 
-You've country. Own one sleep any better of sitting rationalize out proceeded diagrams because take morning, in twists on you asked board pile evening of by big shortcuts. Trumpet cover but we agency her be particular, if of service met it sign officers and post a both coffee it in seven plainly and that from asking he to was sitting them, merely for seven way remember the motivator, feedback accuse details leaders, been gods, but of derived good deference is agency, not and belong, noting shreds snapped the always to as had covered in support fellow have was talking of.
+Rahul Gandhi lied that Parrikar said he had nothing to do with Rafale deal. He later wrote a letter and tried to divert the topic by saying that what he said was "public domain" but lied in the letter again that Parrikar's aide's mentioned on audio tape that Parrikar said he had Rafale tapes in his bedroom, but those tapes were never authenticaed by anyone including Congress.
 
-If and top links the with of follow the facility high are clear at equation, them, furnished may time your sense news shared look phase its to that then the some not twice in often cache these hide found until the his with the career their both temple soft men's the as encourage size I far thoughts it please bear that, not copy. Of phase away particularly a to return instead self-interest, each to he went rolled there is checks, tuned one be he background the sharpness time to and in out that thing headboard to accounts had picked mister.
+Src: https://timesofindia.indiatimes.com/india/no-mention-of-rafale-feel-let-down-parrikar-slams-rahul-of-politicising-courtesy-visit/articleshow/67756772.cms
+
+
