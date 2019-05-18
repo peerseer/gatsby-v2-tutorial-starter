@@ -16,10 +16,11 @@ export const colors = {
     dark: '#284187',
   },
   background: {
-    light: '#3e5fbc',
+    light: '#f05f70',
     dark: '#284187',
   },
 };
+/**#3e5fbc**/
 
 export const shadow = {
   card: '0 20px 30px rgba(0, 0, 0, 0.1)',
