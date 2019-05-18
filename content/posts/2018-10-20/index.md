@@ -1,6 +1,6 @@
 ---
 path: "/upa-surgical-strikes"
-cover: "./surgical-strike.jpg"
+cover: "./three.jpg"
 date: "2019-04-14"
 title: "We did Surgical Strikes too"
 published: true
@@ -11,5 +11,4 @@ Rahul Gandhi lied that there were surgical strikes during UPA.
 
 
 Src: https://facthunt.in/posts/301/Rahul-Gandhi-caught-lying:-No-proof-of-surgical-strike-during-UPA-government
-
 
