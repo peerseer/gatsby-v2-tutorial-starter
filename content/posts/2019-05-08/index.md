@@ -7,7 +7,7 @@ published: true
 tags: ['rafale', 'rafale scam', 'rahul gandhi lie rafale', 'truth of rafale scam', 'Rafale open shut case']
 ---
 
-Rafale is an open and shit case claimed Rahul Gandhi to Ravish Kumar.
+Rafale is an open and shut case claimed Rahul Gandhi to Ravish Kumar.
 
 But soon enough he said elsewhere that he does not know much about Rafale case being an opposition leader.
 
