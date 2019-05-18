@@ -1,6 +1,6 @@
 ---
 path: "/rafale-parrikar"
-cover: "./parrikar.jpg"
+cover: "./parrikar.jpeg"
 date: "2019-04-15"
 title: "Parrikar said he had nothing to do with Rafale deal"
 published: true
