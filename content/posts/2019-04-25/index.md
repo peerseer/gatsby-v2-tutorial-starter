@@ -2,7 +2,7 @@
 path: "/mp-loan"
 cover: "./mp-loan.jpg"
 date: "2019-02-20"
-title: "BJP killed farmers in Mandsaur"
+title: "Loan Waiver in 10 days"
 published: true
 tags: ['MP farm loan waiver', 'MP farm loan waiver lie congress']
 ---
