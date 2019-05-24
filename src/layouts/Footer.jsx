@@ -29,6 +29,9 @@ const Footer = () => (
         <a href="https://pappulies.com">Rahul Gandhi Lies</a>
       </span>
     </Text>
+     <span>
+        <a href="https://bit.ly/2JpHW1D">Submit A Lie</a>
+      </span>
   </Wrapper>
 );
 export default Footer;
