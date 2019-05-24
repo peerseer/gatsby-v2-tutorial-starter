@@ -34,6 +34,9 @@ const NavBar = () => (
       <Link to="/">Home</Link>
       
       <Link to="/about">About</Link>
+      <span>
+        <a href="https://bit.ly/2JpHW1D">Submit A Lie</a>
+      </span>
      
     </Nav>
   </Headroom>
